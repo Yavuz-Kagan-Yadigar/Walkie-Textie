@@ -1,7 +1,9 @@
 # Walkie-Textie
 LoRa RA01 Based Low Cost Walkie-Textie
 https://youtu.be/EXD1s3Uqais
+
 English is below
+
 Şebekeden bağımsız iletişimin önemini 6 Şubat depreminde deneyimledikten sonra düşük maliyetli ve yapımı kolay bir telsiz tasarlamaya ve açık kaynak olarak paylaşmaya karar verdim.
 
 Toplam maliyeti 500TL ve lehimlemesi kolay olması için delikten geçmeli (TH) veya büyük SMD komponentler seçtim.
@@ -13,6 +15,7 @@ Tabi ki 433mhz 20dB enkazdan geçemez ancak sivil halk arasındaki iletişim yü
 Maliyeti düşük tutmak amacıyla enkoderla harf seçmeye dayalı bir giriş sistemi tasarladım.
 
 3D,PCB ve kod dosyaları: https://github.com/Yavuz-Kagan-Yadigar/Walkie-Textie
+
 ---------------------------------------------------------------------------------------------------
 After experiencing the importance of off-grid communication during the February 6th earthquake, I decided to design a low-cost, easy-to-build radio and share it as open source.
 
